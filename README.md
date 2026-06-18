@@ -80,21 +80,21 @@ This project applies comparative bioinformatics approaches — sequence alignmen
 All selected homologs showed **100% query coverage** and high sequence identity with the *Glycine max* FAD2 protein, confirming strong conservation of this enzyme across the legume family.
 
 ![BLAST Results]
-(blast_results.png.png)
+(blast_results.png)
 
 ### Multiple Sequence Alignment
 
 The MSA revealed a high degree of sequence conservation across all studied legume FAD2 proteins, consistent with strong purifying selection on a functionally essential enzyme.
 
 ![Clustal Omega Alignment]
-(clustal_alignment.png.png)
+(clustal_alignment.png)
 
 ### Phylogenetic Analysis
 
 The Neighbor-Joining tree grouped species in accordance with established legume taxonomy.
 
 ![Phylogenetic Tree]
-(phylogenetic_tree.png.png)
+(phylogenetic_tree.png)
 
 Key observations:
 
